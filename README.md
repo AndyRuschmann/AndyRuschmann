@@ -1,5 +1,5 @@
 <h1>
-  <div style="display: inline_block" align="center">
+  <div>
   Oiii eu sou a Andy 💕✨♒
   </div>
 </h1>
