@@ -16,7 +16,6 @@
   </div>
  
   <div style="display: inline_block" align="center"><br>
-    <img height="60" src="https://pa1.narvii.com/6539/f47caf2747194bc8eaa08661e9241673e3dab3b6_hq.gif">
     <img align="center" alt="Andy CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="Andy HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">  
     <img align="center" alt="Andy Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
