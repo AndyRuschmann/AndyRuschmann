@@ -1,5 +1,5 @@
 <h1>
-  <div style="display: inline_block" font-color="#FFA1BD" align="center" font-size="60px">
+  <div style="display: inline_block" align="center">
   Oiii eu sou a Andy 💕✨♒
   </div>
 </h1>
@@ -28,10 +28,12 @@
  
   <div>
     <position: relative>
-    <img align="center" height="125px" src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif">
-    <img align="center" height="125px" src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif">
-    <img align="center" height="125px" src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif">
-    <img align="center" height="125px" src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif">
+    <img align="center" height="83.333px" src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif">
+    <img align="center" height="83.333" src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif">
+    <img align="center" height="83.333" src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif">
+    <img align="center" height="83.333" src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif">
+    <img align="center" height="83.333" src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif">
+    <img align="center" height="83.333" src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif">
   </div>
 
  <div> 
