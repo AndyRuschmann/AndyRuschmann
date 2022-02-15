@@ -1,5 +1,5 @@
 <h1>
-  <div style="font-color: #FFA1BD" align="center" font-size="40px">
+  <div style="display: inline" color="#FFA1BD" align="center" font-size="40px">
   Oiii eu sou a Andy 💕✨♒
   </div>
 </h1>
