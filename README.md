@@ -34,7 +34,7 @@
     <img align="center" height="62.5" src="https://i.pinimg.com/originals/6c/d7/4b/6cd74bae87b2025e3d671a23dbf4b3ca.gif">
   </div>
 
-  <div style="display: inline_block" align="center"><br>
+  <div style="display: inline_block" align="left"><br>
     <img align="center" alt="Andy CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="Andy HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">  
     <img align="center" alt="Andy Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
